@@ -1,7 +1,7 @@
-# library(read)
+ library(read)
 
-#setwd("D:/RepositoriosGITHUB/r-curso")
-setwd("D:/RepositoriosGIT/r-curso")
+setwd("D:/RepositoriosGITHUB/r-curso")
+#setwd("D:/RepositoriosGIT/r-curso")
 
 auto <- read.csv("data/tema1/auto-mpg.csv", header = TRUE, sep = ","
                  ,strings.na = ""               # para asignar un valor cuando venga vacio
