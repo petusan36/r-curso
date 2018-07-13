@@ -1,0 +1,76 @@
+Contenido Curso R - IG
+
+Fundamentos
+
+	Estadistica Descriptiva
+	Definiciones preliminares:
+		Estadística Descriptiva
+		Estadística Inferencial
+		Población
+		Muestra
+		Variable
+			Culitativas
+				Nominales
+				Ordinales
+				*Dicotómicas
+				*Politómicas
+			Cuantitativas
+				Intervalo
+				Razón
+				*Continuas
+				*Discretas
+		Modelo Matemático
+		Modelo Determinístico
+		Modelo Probabilístico
+		Estadístico
+		Parámetro
+	Medidas de tendencia central
+		Media Muestral
+			Ventajas
+			Desventajas
+			Ejercicio
+		Moda Muestral
+			Ventajas
+			Desventajas
+			Ejercicio
+		Mediana Muestral
+			Ventajas
+			Desventajas
+			Ejercicio
+		Rango
+			Ventajas
+			Desventajas
+			Ejercicio
+		Varianza Muestral
+			Ventajas
+			Desventajas
+			Ejercicio
+		Desviación estandar
+			Ventajas
+			Desventajas
+			Ejercicio
+		Intervalo de Confianza
+			Ejercicio
+	Medidas de Posición (Cuantiles)
+		Cuartiles
+			Ventajas
+			Desventajas
+		Deciles
+			Ventajas
+			Desventajas
+		Percentiles
+			Ventajas
+			Desventajas
+		Ejercicios
+	Descripción de datos con datos individuales y agrupados
+		Frecuencia
+		Frecuencia Relativa
+		Frecuencia Acumulada
+		Frecuencia Relativa Acumulada
+		Tabla de frecuencias
+		Ejercicios
+		
+	
+	
+	
+	Ejercicio con R

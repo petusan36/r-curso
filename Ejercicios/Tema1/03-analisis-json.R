@@ -12,3 +12,4 @@ library(curl)
 url <- "https://finance.yahoo.com/webservice/v1/symbols/allcurrencies/quote?format=json"
 
 currencies <-  fromJSON(url)
+currencie.data <- currencies$list$resources$resource$fields
